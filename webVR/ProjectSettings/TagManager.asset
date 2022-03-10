@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - mata
+  - Room_01
+  - Room_03
+  - Corridor_01
+  - Corridor_02
+  - Corridor_03
+  - Plane_2
   layers:
   - Default
   - TransparentFX
